@@ -13,7 +13,7 @@ ___
 ### B.Sc. in Mechanical Engineering  
 #### Ferdowsi University of Mashhad
 **GPA:** 3.38/4  
-**Project:** Designing  
+**Project:** Designing Cutter Machine For Large Fiberglass Pipes Under Given Angle
 **Skills:** MATLAB, FORTRAN, C++, Solidworks  
 
 ___
