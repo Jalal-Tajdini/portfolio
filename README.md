@@ -1,13 +1,13 @@
 # Portfolio  
 ## Introduction  
-Passionate coder dedicated to developing solutions for storing, visualizing, and analyzing data. Skilled in applying machine learning models to turn data into actionable insights. Driven to build innovative software tools that solve real-world problems. Equipped with a Master's degree in Mechanical Engineering, experience in vibration analysis, and expertise in languages like Python. Eager to join a team and continuously expand my skills in data manipulation, predictive modeling, and object-oriented programming. Excited to showcase my work - please explore my projects below!
+Passionate coder dedicated to developing solutions for storing, visualizing, and analyzing data. Skilled in applying machine learning models to turn data into actionable insights. Driven to build innovative software tools that solve real-world problems. Equipped with a Master's degree in Mechanical Engineering, experience in vibration signal analysis, and expertise in Python. Eager to join a team and continuously expand my skills in data manipulation, predictive modeling, and object-oriented programming. Excited to showcase my work - please explore my projects below!
 ___
 ## Education  
 ### M.Sc. in Mechanical Engineering  
 #### Sharif University of Technology 
 **GPA:** 3.51/4  
 **Thesis:** Prediction of Degration Trend of Rolling Element Bearings Using limited data  
-**Skills:** Time Series Analysis, Time Series Forecasting, Condition Monitoring, sktime  
+**Skills:** Signal Processing, Time Series Analysis, Time Series Forecasting, Condition Monitoring, sktime  
 
 
 ### B.Sc. in Mechanical Engineering  
