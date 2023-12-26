@@ -4,16 +4,20 @@ ___
 ## Education  
 ### M.Sc. in Mechanical Engineering  
 #### Sharif University of Technology 
-**GPA:** 3.51/4
+**GPA:** 3.51/4  
+
 **Thesis:** Prediction of Degration Trend of Rolling Element Bearings Using limited data  
-**Skills:** Time Series Analysis, Time Series Forecasting, Condition Monitoring, sktime
+
+**Skills:** Time Series Analysis, Time Series Forecasting, Condition Monitoring, sktime  
 
 
 ### B.Sc. in Mechanical Engineering  
 #### Ferdowsi University of Mashhad
-**GPA:** 3.38/4
-**Project:** Designing 
-**Skills:** MATLAB, FORTRAN, C++, Solidworks
+**GPA:** 3.38/4  
+
+**Project:** Designing  
+
+**Skills:** MATLAB, FORTRAN, C++, Solidworks  
 
 ___
 ## Experience  
