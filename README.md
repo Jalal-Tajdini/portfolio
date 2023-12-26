@@ -1,5 +1,6 @@
 # Portfolio  
-
+## Introduction  
+Passionate coder dedicated to developing solutions for storing, visualizing, and analyzing data. Skilled in applying machine learning models to turn data into actionable insights. Driven to build innovative software tools that solve real-world problems. Equipped with a Master's degree in Mechanical Engineering, experience in vibration analysis, and expertise in languages like Python. Eager to join a team and continuously expand my skills in data manipulation, predictive modeling, and object-oriented programming. Excited to showcase my work - please explore my projects below!
 ___
 ## Education  
 ### M.Sc. in Mechanical Engineering  
