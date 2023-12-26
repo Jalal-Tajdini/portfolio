@@ -13,13 +13,13 @@ ___
 ### B.Sc. in Mechanical Engineering  
 #### Ferdowsi University of Mashhad
 **GPA:** 3.38/4  
-**Project:** Designing Cutter Machine For Large Fiberglass Pipes Under Given Angle
+**Project:** Designing Cutter Machine For Large Fiberglass Pipes Under Given Angle  
 **Skills:** MATLAB, FORTRAN, C++, Solidworks  
 
 ___
 ## Experience  
 ### Software Engineer in Behravesh Vibration Engineering Company  
 As software engineer I was responsible to develop a software to store and visuallize vibration monitoring data and prepare them to give them as inputs of machine learning models for smart fault detection of machinery to reduce human error. Additionally, I developed a feature monitoring module for expert to efficiently analyze vibration features of a machine. Moreover, I added a prognostics module for estimating future vibration state of machinery.  
-**Skills:** Python, OOP, Matplotlib, PyQt5, Postgresql, SQL, Sklearn, Skfuzzy  
+**Skills:** Python, OOP, Matplotlib, PyQt5, Postgresql, SQL, Sklearn, Skfuzzy, Signal Processing
 
 ___
